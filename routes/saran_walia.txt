@@ -1,0 +1,47 @@
+
+Website details 
+===================================================
+Server side
+	 |
+	 |_ Hosting Space
+	 |
+	 |_ Email server
+	 |
+	 |_ Domain [Website URL]
+
+User Side
+	 |		
+	 |_ Home 
+	 |	  |_ Slider
+	 |	  |_ Company info 
+	 |	  |_ Other details
+	 |	  |_ Contact Us
+	 |	  |_ Contact up form [Email will be sent to site owner]
+	 |
+	 |_ User registration 
+	 |	  |_ For booking order	
+	 |
+	 |_	Menu 
+	 	  |_ All the Items are listed according to the categories.
+		  |_ Sort by name 
+		  |_ Searching
+
+Admin Section 
+	  |
+	  |_ Dashboard
+	  |
+	  |_ User list
+	  |	  |_ Check users and block accounts
+	  |
+	  |_ Category
+	  |   |_ Add Category
+	  |	  |_ Category List
+	  |	  |_ Edit Category
+	  |
+	  |_ Items
+	  |	  |_ Add Item
+	  |	  |_ Item List
+	  |	  |_ Edit Item
+	  |
+	  |_ Order History
+	  	  |_ Check Order list/payment 
