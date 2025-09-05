@@ -1,10 +1,10 @@
 # Laravel Boilerplate Code
 
-A clean and modular Laravel 5.8 starter template to kickstart scalable web applications. This boilerplate includes essential configurations, folder structures, and environment setup to streamline development and onboarding.
+A clean and modular Laravel 6.0 starter template to kickstart scalable web applications. This boilerplate includes essential configurations, folder structures, and environment setup to streamline development and onboarding.
 
 ## 🚀 Features
 
-- Laravel 5.8 base setup
+- Laravel 6.0 base setup
 - Modular folder structure
 - Pre-configured `.env.example`
 - Composer and NPM dependencies
