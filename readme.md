@@ -1,10 +1,10 @@
 # Laravel Boilerplate Code
 
-A clean and modular Laravel 10.0 starter template to kickstart scalable web applications. This boilerplate includes essential configurations, folder structures, and environment setup to streamline development and onboarding.
+A clean and modular Laravel 12.0 starter template to kickstart scalable web applications. This boilerplate includes essential configurations, folder structures, and environment setup to streamline development and onboarding.
 
 ## 🚀 Features
 
-- Laravel 10.0 base setup
+- Laravel 12.0 base setup
 - Modular folder structure
 - Pre-configured `.env.example`
 - Composer and NPM dependencies
